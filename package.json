@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cra-template-typescript": "1.0.3",
     "leaflet": "^1.6.0",
     "react": "^16.13.1",
